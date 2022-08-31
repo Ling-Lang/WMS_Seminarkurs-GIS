@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene_HUB.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CM_Scene/Game_CM.unity
+    guid: 1d9db2342897447368a5a6b0211de96f
+  - enabled: 1
+    path: Assets/Scenes/JT_Scenes/Map Zones/Map_Zone EG.unity
+    guid: 0e1bb1d88cd159342b900c7e9bb0125c
+  - enabled: 1
+    path: Assets/Scenes/JT_Scenes/Map Zones/Map_Zone UG.unity
+    guid: 9e75461de317c8140b700a17119a4f8a
+  - enabled: 0
+    path: "Assets/Scenes/DE_Scene/Men\xFC_DE.unity"
+    guid: 9ea82b9e879178743be1e2b5701a47ab
+  - enabled: 1
+    path: Assets/Scenes/CM_Scene/Start_Game_CM.unity
+    guid: 73581c5b38f454a1ba64904ab9880ec1
+  - enabled: 1
+    path: Assets/Scenes/J_Scene/Game_1.unity
+    guid: 392531959e2db704eb877653a925a7b4
+  - enabled: 1
+    path: Assets/Scenes/J_Scene/Game.unity
+    guid: 1dabc04a30b0e264e8d0996b4e7e03e5
+  - enabled: 1
+    path: "Assets/Scenes/DE_Scene/Men\xFC_DE.unity"
+    guid: 9ea82b9e879178743be1e2b5701a47ab
+  - enabled: 1
+    path: Assets/Scenes/DE_Scene/Game_DE.unity
+    guid: a79ba94b44aa0ed4c9220a7db8d792db
+  m_configObjects: {}

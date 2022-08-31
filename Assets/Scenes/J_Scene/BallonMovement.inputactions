@@ -1,0 +1,55 @@
+{
+    "name": "BallonMovement",
+    "maps": [
+        {
+            "name": "Ballon",
+            "id": "f40c22ff-5b6d-4176-aa3f-910fdbc24230",
+            "actions": [
+                {
+                    "name": "Movement",
+                    "type": "Button",
+                    "id": "339c7e8b-c42d-4cb9-b3c3-d3d9cb908079",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "1D Axis",
+                    "id": "7a4ab4e4-358d-46f0-90f9-85339d7160b3",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "a8771ea9-ae1b-4e26-bca1-700c7b11c3d0",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "0f4b17bc-92b4-4e4e-84cd-c5aa6ef4f9c7",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

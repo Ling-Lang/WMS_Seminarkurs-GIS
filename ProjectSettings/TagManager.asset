@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bomb
+  - Ball
+  - rTor
+  - lTor
+  - PortSoccer
+  - Wall
+  - Enemy
+  - canShootAI
+  - trigger
+  - rMauer
+  - lMauer
+  - PortHitler
+  - Neustart
+  - PortToCandy
+  - PortToBallon
+  - rotateback
+  - rotateback1
+  - Schnegge
+  - Apple
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Ball
+  - Wall
+  - Waypoint1
+  - Waypoint2
+  - Hitler
+  - Grass
+  - bomb
+  - Candy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2757155203
+    locked: 0
+  - name: Walls
+    uniqueID: 1839454701
+    locked: 0
+  - name: Player
+    uniqueID: 3921990551
+    locked: 0
