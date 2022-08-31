@@ -77,3 +77,4 @@ Desktop.ini
 [Bb]uild
 sysinfo.txt
 *.stackdump
+.collabignore
